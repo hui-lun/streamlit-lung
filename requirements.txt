@@ -56,4 +56,4 @@ validators==0.20.0
 watchdog==2.1.9
 wincertstore==0.2
 zipp==3.9.0
-default-jre
+jdk4py
